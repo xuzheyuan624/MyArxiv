@@ -7,7 +7,6 @@ limit = 150
 category = "cs.CV"
 title = "Computer Vision and Pattern Recognition"
 
-
 [scripts]
 highlight_title = "scripts/highlight_title.rhai"
 highlight_author = "scripts/highlight_author.rhai"
